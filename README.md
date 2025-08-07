@@ -65,9 +65,6 @@ The current CBBI version _(November 2022)_ includes the following metrics:
 | 2 Year Moving Average        | [Visit page](https://coinank.com/indexdata/year2MA)                  |
 | Bitcoin Trolololo Trend Line | [Visit page](https://www.blockchaincenter.net/bitcoin-rainbow-chart/) |
 | MVRV Z-Score                 | [Visit page](https://coinank.com/indexdata/score)                    |
-| Reserve Risk                 | [Visit page](https://coinank.com/indexdata/reserveRisk)              |
-| Woobull Top Cap vs CVDD      | [Visit page](https://woocharts.com/bitcoin-price-models/)             |
-
 ## Environment Variables
 
 This project supports `.env` files, which provide a convenient way of setting environment variables.
